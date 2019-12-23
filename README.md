@@ -3,5 +3,8 @@
 
 Use GPU computing in machine learning algorithms. The algorithm that has been implemented is：kNN 、Prior probability is a naive bayesian algorithm with normal distribution
 
+Use the python3 version
+
+
 
 
